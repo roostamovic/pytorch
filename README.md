@@ -1,2 +1,2 @@
 # pytorch
-My Codes written in PyTorch
+Codes of Deep Learning with PyTorch Tutorial
